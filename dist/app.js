@@ -1,0 +1,1 @@
+'use strict';var _getUsers=require('./getUsers');var express=require('express');var app=express();app.get('/getUsers',function(req,res){res.send(_getUsers.usersJSON);});var server=app.listen(8000,function(){});
