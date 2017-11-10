@@ -2,42 +2,42 @@ let users = [
     {
         userName: 'Anthony Chang',
         email: 'anthony@gmail.com',
-        id: '1'
+        key: 1
     },
     {
         userName: 'Tinna',
         email: 'tinna@gmail.com',
-        id: '1'
+        key: 2
     },
     {
         userName: 'Garry',
         email: 'garry@gmail.com',
-        id: '1'
+        id: 3
     },
     {
         userName: 'Shen',
         email: 'Shen@gmail.com',
-        id: '1'
+        id: 4
     },
     {
         userName: 'Robbert',
         email: 'robbert@gmail.com',
-        id: '1'
+        id: 5
     },
     {
         userName: 'Cristine',
         email: 'cristine@gmail.com',
-        id: '1'
+        id: 6
     },
     {
         userName: 'Kayle',
         email: 'kale@gmail.com',
-        id: '1'
+        id: 7
     },
     {
         userName: 'Peter',
         email: 'peter@gmail.com',
-        id: '1'
+        id: 8
     },
 
 

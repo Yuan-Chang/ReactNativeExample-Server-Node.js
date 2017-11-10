@@ -14,4 +14,3 @@ app.get('/getUsers', function (req, res) {
 var server = app.listen(8000, function () {
 
 })
-

@@ -1,1 +1,1 @@
-'use strict';var _getUsers=require('./getUsers');var express=require('express');var app=express();app.get('/getUsers',function(req,res){res.send(_getUsers.usersJSON);});var server=app.listen(8000,function(){});
+'use strict';var _getUsers=require('./getUsers');var express=require('express');var app=express();app.get('/',function(req,res){res.send('This React-native-example home');});app.get('/getUsers',function(req,res){res.send(_getUsers.usersJSON);});var server=app.listen(8000,function(){});
